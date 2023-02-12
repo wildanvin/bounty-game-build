@@ -1,2 +1,0 @@
-*.gz add_header Content-Encoding gzip;
-
